@@ -1,0 +1,24 @@
+
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+div{
+    height: 400px;
+    width: 400px;
+}
+
+label{
+    border-radius: 5px;
+    background-color: bisque;
+    cursor: pointer;
+    padding: 10px;
+}
+
+label:hover{
+    background-color: rgb(199, 189, 177);
+    text-decoration: underline;
+    color: white;
+}
